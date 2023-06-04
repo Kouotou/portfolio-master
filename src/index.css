@@ -1,5 +1,5 @@
 @import
-url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap'); // used of google fonts
+url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap'); /* used of google fonts*/
 *{
 margin: 0;
 padding: 0;
@@ -85,6 +85,7 @@ transition: var(--transition);
     background: var(--color-primary);
     color: var(--color-bg);
     }
+
     img{
     display: block;
     width: 100%;
