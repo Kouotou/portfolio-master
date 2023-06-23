@@ -1,0 +1,7 @@
+Username:kouotouahmad
+Password:2SXYkaV7jkMfBGwh
+
+mongodb+srv://kouotouahmad:2SXYkaV7jkMfBGwh@portfoliocluster.nfopncq.mongodb.net/
+
+Driver connection string
+mongodb+srv://kouotouahmad:2SXYkaV7jkMfBGwh@portfoliocluster.nfopncq.mongodb.net/?retryWrites=true&w=majority
