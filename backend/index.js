@@ -6,6 +6,8 @@ const cors = require('cors');
 
 
 //connection to mongodb
+
+//the errorr here was tha a linking problem occured with the MONGO_DB_CONFIG
 mongoose.connect("mongodb+srv://kouotouahmad:2SXYkaV7jkMfBGwh@portfoliocluster.nfopncq.mongodb.net/PortfolioBackendProject?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
