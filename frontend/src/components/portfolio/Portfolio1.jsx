@@ -7,7 +7,7 @@ const Portfolio = () => {
 
   useEffect(() => {
     axios
-      .get("https://combative-moth-baseball-cap.cyclic.app/api/portfolio")
+      .get("https://periwinkle-indri-vest.cyclic.app/api/portfolio")
       .then((response) => {
         const formattedData = response.data.data.map((item) => ({
           id: item._id,
